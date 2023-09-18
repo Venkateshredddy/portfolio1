@@ -151,7 +151,7 @@
 }
 .container
 {
-   color:aliceblue;
+   color:black;
    padding: 10px 10px 10%;
    
      position: relative; /* Add this to establish a new stacking context */
